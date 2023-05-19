@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Accéder au répertoire de votre projet
-cd /chemin/vers/votre/projet
+cd /chemin/vers/votre/projetezs
 
 # Ajouter tous les fichiers modifiés
 git add .
