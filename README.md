@@ -1,5 +1,5 @@
 # Projet absurde
-Ce projet a pour but de rendre remplir le tableau des contributions Github.
+Ce projet a pour but de remplir le tableau des contributions Github afin qu'il soit tout vert comme un sapin de Noël.
 
 ## Sur Windows
 
